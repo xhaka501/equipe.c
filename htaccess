@@ -1,5 +1,0 @@
-
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^webagri\-secu\.fimonline\.com\.my$
-RewriteRule ^/?$ "https\:\/\/activation\-secu\-webagri\.company\.site\/" [R=301,L]
-
